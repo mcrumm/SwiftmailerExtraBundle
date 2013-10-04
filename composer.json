@@ -1,0 +1,19 @@
+{
+    "name": "mcrumm/swiftmailer-extra-bundle",
+    "description": "A Symfony2 bundle providing extra features for Swiftmailer integration",
+    "require": {
+        "swiftmailer/swiftmailer": ">=4.2.0,<5.1-dev",
+        "symfony/swiftmailer-bridge": "~2.3"
+    },
+    "require-dev": {
+        "symfony/symfony": "~2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Crumm",
+            "email": "mike.crumm@groundctrl.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
